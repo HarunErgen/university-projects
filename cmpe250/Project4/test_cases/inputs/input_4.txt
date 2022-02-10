@@ -1,0 +1,10 @@
+27
+51 20 3 8 22 50 32 42 49 31 18 50 33 7 26 33 20 9 29 15 9 38 47 20 44 37 23 
+24
+39 4 35 38 10 41 4 25 8 51 42 6 27 17 17 41 9 13 35 2 7 38 54 38 
+19
+13 3 3 15 42 39 40 27 38 16 50 38 26 53 42 26 5 47 51 
+23
+28 0 16 2 31 11 52 8 52 9 31 48 38 36 46 41 9 3 14 6 1 51 30 
+78
+ace 13 cd 2 cd 44 abe 24 ab 23 ad 0 e 26 abd 34 acd 41 ace 7 cd 29 ce 42 cd 5 ac 41 abd 15 d 16 ce 22 d 18 e 44 acd 15 b 25 bd 27 ce 23 bd 17 ace 31 abd 26 ab 3 ae 37 abd 39 abd 10 cd 17 b 16 ad 17 b 38 ad 37 d 6 acd 20 ce 33 d 15 d 23 bd 32 cd 23 d 25 ae 28 be 41 be 30 bd 2 b 4 ab 5 d 41 bd 1 ace 25 b 27 abd 43 abe 44 abd 3 d 39 c 27 ad 42 a 25 ae 15 ab 42 acd 26 ace 34 ae 36 ab 43 bd 23 ce 4 abe 30 e 15 ce 33 c 18 ae 41 e 12 ac 3 cd 11 acd 30 d 33 
