@@ -1,0 +1,43 @@
+scalar Vector
+matrix A[2,3]
+matrix B[2,3]
+matrix C[2,2]
+vector V[2]
+scalar i
+
+A = { 4 0.7 7 8 1.4 14 }
+B = { 0.1 0.1 0.2 0.9 1 0.4 }
+C = B*tr(A) # ={ 7.54 3.83 15.08 7.66 }
+V = { 0.5 2 }
+
+print(V) 
+printsep()
+
+V = C*V
+
+print(V)
+printsep()
+
+# for starts
+# from 		4
+# goes		10
+# increment 	4
+# i is 4 and 8
+for(i in A[1,1]:B[1,1]*100:V[1]*A[2,2]){
+    print(V[i/4]) 
+    print(sqrt(V[i/4]))
+    Vector = Vector + 1    
+}
+
+# output is 
+# 0.5
+# 2
+# ----------
+# 11.43
+# 22.86
+# ----------
+# 11.43
+# 3.380828
+# 22.86
+# 4.781213
+

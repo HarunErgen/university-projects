@@ -1,0 +1,13 @@
+# simple expression 
+
+scalar a
+scalar b 
+scalar c 
+
+a = 5 
+b = 7
+c = a + b 
+print(c)
+
+
+

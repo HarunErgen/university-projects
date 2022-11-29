@@ -1,0 +1,13 @@
+# "Choose" wisely.
+
+scalar i
+scalar n
+scalar b
+
+n = 900
+b = 0
+for(i in 1:sqrt(n):1){
+    b = choose(choose(b,0,0-1,1),1,0,0-1)
+    b = b + i
+    print(b)
+}

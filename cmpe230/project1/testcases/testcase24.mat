@@ -1,0 +1,11 @@
+# vector addition
+
+vector x[3]
+vector y[3]
+vector z[3]
+
+x = {3 10 1}
+y = {5 8 9}
+z = x + y
+
+print(z)

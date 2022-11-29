@@ -1,0 +1,12 @@
+# Lets meet with our new exciting function. Choose()!
+
+scalar hello
+scalar result
+scalar test
+
+result = 2
+test = 1
+hello = choose((test-1),result,2*3.0, 230)
+printsep()
+print(hello)
+printsep()

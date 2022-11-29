@@ -1,0 +1,6 @@
+# vector initialization
+
+vector a[3]
+
+a = {1 0 4}
+print(a) 

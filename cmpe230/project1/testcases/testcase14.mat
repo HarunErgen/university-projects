@@ -1,0 +1,9 @@
+# scalar initialization
+
+scalar a
+
+a = 5 
+print(a)
+
+
+

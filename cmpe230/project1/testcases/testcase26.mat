@@ -1,0 +1,12 @@
+# matrix addition and index operator
+
+matrix A[3, 2]
+matrix B[3, 2]
+matrix C[3, 2]
+scalar x 
+
+A = {2 5 7 3 2 5}
+B = {5 8 2 2 7 5}
+C = A + B
+x = C[1, 2] 
+print(x)

@@ -1,0 +1,11 @@
+# This is a simple example program.
+# This program should print numbers from 1 to 10.
+
+scalar i
+scalar n
+
+n = 10
+
+for(i in 1:n:1){
+    print(i)
+}

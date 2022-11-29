@@ -1,0 +1,10 @@
+# matrix defined as [2,2] but given 5 parameters
+
+matrix A[2,2]
+scalar pri
+
+A = { 2 3 0 0 0 }
+pri = 1
+
+print(pri)
+

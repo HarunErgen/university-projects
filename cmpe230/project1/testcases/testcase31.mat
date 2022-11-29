@@ -1,0 +1,8 @@
+# tr 
+
+matrix A[3, 2]
+matrix B[2, 3]
+
+A = {1 2 3 4 5 6}
+B = tr(A)
+print(B)

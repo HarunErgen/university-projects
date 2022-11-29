@@ -1,0 +1,17 @@
+# vector element update
+
+vector x[3]
+vector y[3]
+vector z[3]
+scalar temp 
+x = {3 10 1}
+y = {5 8 9}
+
+temp = y[1]
+y[1] = y[2]
+y[2] = y[3]
+y[3] = temp
+
+z = x + y
+
+print(z)

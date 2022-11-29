@@ -1,0 +1,16 @@
+# this is just a simple choose test
+# fancy names for variables
+
+scalar forky
+scalar fif
+scalar result
+
+forky = 230
+fif = 14
+result = choose((0-1)*forky,fif,forky,forky-fif)
+
+print(result)
+
+# output is 216
+
+

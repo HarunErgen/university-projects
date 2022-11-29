@@ -1,0 +1,14 @@
+# comment starting at the first index of line
+# this is just a simple choose test but mistaken
+
+scalar x
+scalar y
+scalar result
+
+x = 230
+y = 14
+
+# there is an error because choose function is not finished yet!
+result = choose(x-y,x+y,y-x,#)
+
+print(result)

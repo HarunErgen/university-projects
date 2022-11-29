@@ -1,0 +1,23 @@
+# Things are getting complicated.
+
+scalar i
+scalar n
+scalar inc
+vector x[4]
+matrix A[4,2]
+matrix result[1,2]
+
+scalar new
+
+n = 14
+inc = 3
+x = {1.2 3 2 1}
+A = {1 0 1 0 1 0 1 1}
+for(i in 1:n:inc){
+    x = x * i
+}
+result = tr(x) * A
+
+new = result[1,1]
+print(new)
+# 26208

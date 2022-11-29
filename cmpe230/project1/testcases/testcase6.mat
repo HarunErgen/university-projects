@@ -1,0 +1,10 @@
+# Lots of chooses.
+
+scalar a
+vector x[6]
+matrix A[1,1]
+x = {2 3 0 2 3 0}
+
+A = tr(x)*x
+a = choose(choose(123213, 230 ,choose(8323232, 0*213132,x[3] - 19 ,321321) , 0-3), x[2] , choose(3*4-232 ,0 ,94848 ,sqrt(4.2)), A[1,1])
+print(a)

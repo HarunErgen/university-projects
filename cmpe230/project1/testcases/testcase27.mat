@@ -1,0 +1,9 @@
+# type mismatch
+
+vector a[3]
+vector b[5]
+scalar number 
+a = {1 0 4}
+b = {5 2 9 0 7}
+number = b[1,2]
+print(number) 

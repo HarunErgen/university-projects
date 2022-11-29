@@ -1,0 +1,12 @@
+# expressions continued 
+
+scalar a
+scalar b 
+scalar c 
+scalar d 
+
+a = 12.5
+b = 3.7 
+c = a * (a + b) + (a + b)
+d = c - a
+print(d)

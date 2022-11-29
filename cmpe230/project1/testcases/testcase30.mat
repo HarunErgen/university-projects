@@ -1,0 +1,9 @@
+# variable redefinition
+
+scalar result
+vector x[6]
+matrix result[3, 2]
+
+x = {2 3 0 2 3 0}
+a = choose(choose(123213, 230 ,choose(8323232, 0*213132,x[3] - 19 ,321321) , 0-3), x[2] , choose(3*4-232 ,0 ,94848 ,sqrt(4.2)), tr(x)*x)
+print(a)

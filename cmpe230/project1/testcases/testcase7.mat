@@ -1,0 +1,38 @@
+# this program counts fractional elements
+
+scalar zer0
+scalar x
+scalar len
+scalar i
+scalar j
+scalar count
+
+matrix A[3,4]
+matrix B[2,3]
+matrix C[2,4]
+
+vector R[4]
+
+A = { 1 2 1 2 1 2 1 2 1 2 1 2 }
+B = { 0.2 0.3 0 0.2 0.3 0 }
+
+x = A[1,1] #1
+x = A[3,1] #1
+
+len = 2*x*x
+
+C = B*A # ={0.5 1 0.5 1 0.5 1 0.5 1}
+
+for(i,j in zer0+1:len:1,1+zer0*0:len+len:1){
+    count = choose(C[i,j]-1,count,x,count+1)    
+}
+
+print(count)
+
+# output is 4
+
+
+
+
+
+

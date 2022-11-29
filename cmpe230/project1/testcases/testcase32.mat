@@ -1,0 +1,9 @@
+# sqrt expects scalars 
+
+matrix A[3, 2]
+matrix B[2, 3]
+
+A = {4 9 16 25 36 49}
+
+B = sqrt(A)
+print(B)

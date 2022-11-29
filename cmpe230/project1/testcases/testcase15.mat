@@ -1,0 +1,10 @@
+# scalar default value
+
+scalar a
+scalar b 
+
+a = 5 
+print(b)
+
+
+

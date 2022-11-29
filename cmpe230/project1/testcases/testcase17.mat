@@ -1,0 +1,5 @@
+# vector initialization (float)
+vector a[4]
+
+a = {1.2 0.5 4.7 1.3}
+print(a) 

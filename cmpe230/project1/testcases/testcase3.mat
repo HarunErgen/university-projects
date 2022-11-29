@@ -1,0 +1,11 @@
+# Looks similar with case 2. But what if we do not assign a value to one of the scalars?
+
+scalar hello
+scalar result
+scalar test
+
+result = 2
+hello = choose((test-1),result,2*3.0, 230)
+printsep()
+print(hello)
+printsep()

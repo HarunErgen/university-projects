@@ -1,0 +1,13 @@
+# choose expects scalars
+
+scalar hello
+scalar result
+scalar test
+vector v[2]
+
+v = {7 2}
+result = 2
+hello = choose(v,result,2*3.0, 230)
+printsep()
+print(hello)
+printsep()
