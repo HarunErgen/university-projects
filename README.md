@@ -16,6 +16,7 @@
 |[Project2](https://github.com/HarunErgen/university-projects/tree/master/cmpe230/project2)|Assembly|
 
 <h2> CMPE260 Principles of Programming Languages </h2>
+
 |        | Subject |
 |--------|---------|
 |[Project1](https://github.com/HarunErgen/university-projects/tree/master/cmpe260/project1)|Logical Programming|
