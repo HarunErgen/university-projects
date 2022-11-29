@@ -1,0 +1,16 @@
+#lang racket
+
+(provide (all-defined-out))
+
+; 10 points
+(define := (lambda (var value) 0))
+; 10 points
+(define -- (lambda args 0))
+; 10 points
+(define @ (lambda (bindings expr) 0))
+; 20 points
+(define split_at_delim (lambda (delim args) 0))
+; 30 points
+(define parse_expr (lambda (expr) 0))
+; 20 points
+(define eval_expr (lambda (expr) 0))
